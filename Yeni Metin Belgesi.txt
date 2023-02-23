@@ -1,0 +1,14 @@
+<html>
+<head>
+<title>LUSİ ARDA GÖTTEN YİYEN</title>
+</head>
+<body bgcolor="#c217cf">
+<div align="center"><br/><br/>
+<img height="400px" src="https://media.discordapp.net/attachments/874827705584078918/1075408594356424734/20230215_162738.jpg"><br/>
+<a href="https://www.instagram.com/arda.mngl"><h1>GÖTTEN YİYENLER İÇİN İNSTAGRAM</h1></a>
+<audio controls="controls" autoplay="autoplay">
+<source src="buff.mp3" type="audio/mp3">
+</audio>
+</div>
+</body>
+</html>
